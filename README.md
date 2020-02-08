@@ -75,6 +75,8 @@ def get_blinking_ratio(eye_points, facial_landmarks): # funtion to detect the bl
 
 
 * Check the Blinking Ratio with Eyes closed.
+
+
 ![Eye_Ratio](https://github.com/himani-de/driver_drowsiness_alert/blob/master/images/Eye_Ratio.png)
 
 
