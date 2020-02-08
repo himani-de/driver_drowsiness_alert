@@ -39,7 +39,7 @@
 * Detect Region of interest ( eye ).
 
 * Calculate Blinking ratio.
-![Eye](https://drive.google.com/file/d/1hn74zkkMwZvQgh79-IjQ0dFwCHZuxIAL/view?usp=sharing)
+![Eye](https://github.com/himani-de/driver_drowsiness_alert/blob/master/images/eye.png)
 
 
 ### Usage
@@ -76,7 +76,7 @@ def get_blinking_ratio(eye_points, facial_landmarks): # funtion to detect the bl
 
 * Check the Blinking Ratio with Eyes closed 
 
-[!Eye_Ratio](https://drive.google.com/file/d/1fDzuG4-m0k2ol9JXiGOrTQK3vscSK4GZ/view?usp=sharing)
+[!Eye_Ratio](https://github.com/himani-de/driver_drowsiness_alert/blob/master/images/Eye_Ratio.png)
 
 
 ### Limitation 
