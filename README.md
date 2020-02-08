@@ -1,7 +1,7 @@
 ### Table of Contents
 
 1. [Overview](#Overview)
-2. ['Getting Started'](#'Getting Started')
+2. [Getting-Started](#Getting-Started)
 3. [Description](#Description)
 4. [Features](#Features)
 5. [Usage](#Usage)
@@ -14,7 +14,7 @@
 
 * It is a technology that can prevent accidents from happening, which are caused by drivers who fell asleep while driving.
 
-### Getting Started
+### Getting-Started
 
 1. Prerequisites:
 
