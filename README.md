@@ -1,3 +1,13 @@
+### Table of Contents
+
+1.[Overview](#Overview)
+2.[Getting Started](#Getting Started)
+3.[Description](#Description)
+4.[Features](#Features)
+5.[Usage](#Usage)
+6.[Limitation](#Limitation)
+7.[License](#License)
+
 ### Overview
 
 * Drowsiness Alert system will detect that a person’s eyes are closed for a few seconds and will alert the driver when drowsiness is detected.
@@ -21,7 +31,7 @@
 
 ### Description 
 
-*It uses dlib for face detection and eye landmark detection . The frontal face detector in dlib works very well
+* It uses dlib for face detection and eye landmark detection . The frontal face detector in dlib works very well
 
 * It is an open source C++ library implementing a variety of machine learning algorithms, including classification, regression, clustering, data transformation, and structured prediction.
 
@@ -87,8 +97,7 @@ This code has been tested on following operating systems.
  * Ubuntu 18.04
  * Windows 10
  
-Python Version 
-
+This code has been tested on following Python Versions. 
 * Python 3.6
 * Python 3.7.3
 
