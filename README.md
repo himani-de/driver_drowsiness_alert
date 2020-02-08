@@ -101,7 +101,7 @@ This code has been tested on following Python Versions.
 * Python 3.6
 * Python 3.7.3
 
-### Licence
+### License
 
 Released under MIT license, see [LICENSE](LICENSE.md) for details.
 
