@@ -1,0 +1,6 @@
+cv2
+time
+numpy
+pygame
+dlib
+math
